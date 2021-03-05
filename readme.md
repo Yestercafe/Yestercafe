@@ -4,7 +4,7 @@
 
 ### Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yescafe&show_icons=true&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yescafe&show_icons=true&theme=dracula&count_private=true&disable_animations=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yescafe&layout=compact&theme=dracula&langs_count=10)
 
