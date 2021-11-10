@@ -6,6 +6,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yescafe&show_icons=true&count_private=true&disable_animations=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yescafe&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yescafe&layout=compact&langs_count=8&hide=jupyter+notebook)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Yescafe&layout=compact)
