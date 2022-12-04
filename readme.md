@@ -14,4 +14,4 @@ Click to access [my gitpages](https://Yescafe.github.io)!
 
 #### What Languages I Use
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yescafe&layout=compact&langs_count=8&hide=jupyter+notebook&theme=omni)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yescafe&layout=compact&langs_count=8&hide=jupyter+notebook,hcl,vim+script,assembly&theme=omni)
