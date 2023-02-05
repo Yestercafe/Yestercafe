@@ -1,6 +1,6 @@
 ## Hi there 👋 Here is Ivan Chien / Yestercafe! Welcome to my mainpages!
 
-### Dream this year: LeetCode Guardian(Top 1%), contest ranking 1,883/~2,350 currently(after weekly 310)
+### Dream this year: LeetCode Guardian(Top 1%), contest ranking 1,883/~2,350 after Weekly 310
 
 Click to access [my gitpages](https://Yescafe.github.io)!
 
