@@ -4,12 +4,13 @@
 
 ### Dream this year
 
-- LeetCode Guardian(Top 1%), contest ranking 1,948/~2,350 after Weekly 333(+14)
+- LeetCode Guardian(Top 1%), contest ranking 2,016/~2,350 after Weekly 334(+68)
 
 ### Working on
 
-- backend in Rust([actix-web](https://actix.rs/))
+- category theory, abstract algebra
 - programming language theory foundations
+- backend in Rust([actix-web](https://actix.rs/))
 
 ### What Languages I Wrote Recently (Wakatime Stats)
 
