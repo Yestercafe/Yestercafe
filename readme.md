@@ -8,7 +8,7 @@
 
 ### Working on
 
-- category theory, abstract algebra
+- category theory
 - programming language theory foundations
 - backend in Rust([actix-web](https://actix.rs/))
 
