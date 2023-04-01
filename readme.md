@@ -4,7 +4,7 @@
 
 ### Dream this year
 
-- [ ] LeetCode Guardian(Top 1%), contest ranking 2,162/~2,250 after Weekly 337(+64)
+- [ ] LeetCode Guardian(Top 1%), contest ranking 2,148/~2,250 after Weekly 338(-14)
 
 ### Working on
 
