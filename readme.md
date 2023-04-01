@@ -8,8 +8,8 @@
 
 ### Working on
 
-- category theory
 - programming language theory foundations
+- type theory, category theory
 - backend in Rust([actix-web](https://actix.rs/))
 
 ### What Languages I Wrote Recently (Wakatime Stats)
