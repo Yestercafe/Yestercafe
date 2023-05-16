@@ -14,7 +14,7 @@
 
 ### What Languages I Wrote Recently (Wakatime Stats)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Yescafe&layout=compact&theme=rose_pine)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Yescafe&layout=compact&theme=rose_pine&range=last_7_days&is_including_today=true)
 
 ### My GitHub Stats
 
