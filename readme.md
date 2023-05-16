@@ -18,5 +18,4 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yescafe&show_icons=true&count_private=true&disable_animations=true&theme=rose_pine)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yescafe&layout=compact&langs_count=8&hide=jupyter+notebook,hcl,vim+script,assembly&theme=rose_pine)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yescafe&show_icons=true&count_private=true&disable_animations=true&theme=rose_pine&&rank_icon=github)
