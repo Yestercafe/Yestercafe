@@ -4,12 +4,7 @@
 
 ### Dream in this year
 
-- [x] **LeetCode Guardian**, contest ranking 2,295
-
-### Working on
-
-- programming language theory foundations
-- type theory, category theory
+- [x] *LeetCode Guardian*
 
 ### What Languages I Wrote Recently (Wakatime Stats)
 
