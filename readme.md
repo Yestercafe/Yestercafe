@@ -29,5 +29,5 @@ I wanna learn more about functional programming languages, like Haskell, and ind
 - [Yescafe/Emehcs](https://github.com/Yescafe/Emehcs): A Lisp-like language interpreter by C++
 - [Yescafe/Euphoria](https://github.com/Yescafe/Euphoria): A UE C++ documentation generator by Rust
 - [Yescafe/leetcode-solutions](https://github.com/Yescafe/leetcode-solutions): My LeetCode solutions, C++/Python/Go/Rust/and so on, all in this repo!
-- [Yescafe/CoffeeOJ-judger](https://github.com/Yescafe/CoffeeOJ-judger): A online judge platform problem judger backend (or service) by Rust (under development!)
-- [Yescafe/CoffeeOJ](https://github.com/Yescafe/CoffeeOJ): A online judge platform by Golang (under development!)
+- [Yescafe/CoffeeOJ-judger](https://github.com/Yescafe/CoffeeOJ-judger)(WIP): A online judge platform problem judger backend (or service) by Rust
+- [Yescafe/CoffeeOJ](https://github.com/Yescafe/CoffeeOJ)(WIP): A online judge platform by Golang
