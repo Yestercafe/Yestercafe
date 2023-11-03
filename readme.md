@@ -14,7 +14,7 @@
   </picture>
 </div>
 
-[![Outlook Badage](https://img.shields.io/badge/-Outlook-0078d4?style=flat-square&logo=Microsoft%20outlook&logoColor=white&link=mailto:qyc027@outlook.com)](mailto:qyc027@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qyc027@gmail.com)](mailto:qyc027@gmail.com) [![Bilibili Badge](https://img.shields.io/badge/-Bilibili-00a1d6?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/25377351)](https://space.bilibili.com/25377351)  [![LeetCode Badge](https://img.shields.io/badge/-LCCN-f89f1b?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.cn/u/Yescafe)](https://leetcode.cn/u/Yescafe) [![LeetCode Badge](https://img.shields.io/badge/-LCUS-f89f1b?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Yescafe)](https://leetcode.com/Yescafe) [![Codewars Badge](https://img.shields.io/badge/-Codewars-b1361e?style=flat-square&logo=codewars&logoColor=white&link=https://www.codewars.com/users/Yescafe)](https://www.codewars.com/users/Yescafe) [![Codeforces Badge](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/Ivan_Chien)](https://codeforces.com/profile/Ivan_Chien)
+[![Outlook Badage](https://img.shields.io/badge/-Outlook-0078d4?style=flat-square&logo=Microsoft%20outlook&logoColor=white&link=mailto:qyc027@outlook.com)](mailto:qyc027@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qyc027@gmail.com)](mailto:qyc027@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-f89f1b?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Yescafe)](https://leetcode.com/Yescafe) [![Codewars Badge](https://img.shields.io/badge/-Codewars-b1361e?style=flat-square&logo=codewars&logoColor=white&link=https://www.codewars.com/users/Yescafe)](https://www.codewars.com/users/Yescafe)
 
 Hi there, I am Ivan Chien. I like Rust and C++.
 
@@ -22,10 +22,9 @@ I use [Vim](https://github.com/Yestercafe/nvim)/[Emacs](https://github.com/Yeste
 
 I wanna learn more about functional programming languages, like Haskell, and independent-type programming languages, like Coq or Agda.
 
+### Goals
 
-### Goals for this year
-
-- [x] *LeetCode Guardian*
+- [ ] Migrate C++ to Rust completely
 
 <picture>
   <source
@@ -43,7 +42,7 @@ I wanna learn more about functional programming languages, like Haskell, and ind
 
 - Rust & Go
 - functional programming
-- PL
+- programming languages
 - theorem proving
 
 ### My Favorite Repos
