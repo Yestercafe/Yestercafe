@@ -1,6 +1,6 @@
 ## Ivan Chien/Yestercafe - He/Him
 
-<div>
+<!-- <div>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Yestercafe&show_icons=true&count_private=true&theme=apprentice"
@@ -12,7 +12,7 @@
     />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yestercafe&show_icons=true&count_private=true" />
   </picture>
-</div>
+</div> -->
 
 [![Outlook Badage](https://img.shields.io/badge/-Outlook-0078d4?style=flat-square&logo=Microsoft%20outlook&logoColor=white&link=mailto:qyc027@outlook.com)](mailto:qyc027@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qyc027@gmail.com)](mailto:qyc027@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-f89f1b?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Yescafe)](https://leetcode.com/Yescafe) [![Codewars Badge](https://img.shields.io/badge/-Codewars-b1361e?style=flat-square&logo=codewars&logoColor=white&link=https://www.codewars.com/users/Yescafe)](https://www.codewars.com/users/Yescafe)
 
@@ -20,13 +20,14 @@ Hi there, I am Ivan Chien. I like Rust and C++.
 
 I use [Vim](https://github.com/Yestercafe/nvim)/[Emacs](https://github.com/Yestercafe/zero.emacs).
 
-I wanna learn more about functional programming languages, like Haskell, and independent-type programming languages, like Coq or Agda.
+I'd like to learn more about functional programming languages like Haskell and independent-type programming languages like Coq or Agda.
 
 ### Goals
 
-- [ ] Migrate C++ to Rust completely
+- [ ] porting some major C++ projects to Rust
+- [ ] to finish Coffee OJ
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yestercafe&layout=compact&langs_count=6&range=last_7_days&is_including_today=true&custom_title=Languages%20I%20Used%20Recently&theme=apprentice"
     media="(prefers-color-scheme: dark)"
@@ -36,7 +37,7 @@ I wanna learn more about functional programming languages, like Haskell, and ind
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yestercafe&layout=compact&langs_count=6&range=last_7_days&is_including_today=true&custom_title=Languages%20I%20Used%20Recently" />
-</picture>
+</picture> -->
 
 ### Interested in
 
