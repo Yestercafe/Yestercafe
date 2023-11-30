@@ -16,16 +16,20 @@
 
 [![Outlook Badage](https://img.shields.io/badge/-Outlook-0078d4?style=flat-square&logo=Microsoft%20outlook&logoColor=white&link=mailto:qyc027@outlook.com)](mailto:qyc027@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qyc027@gmail.com)](mailto:qyc027@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-f89f1b?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Yescafe)](https://leetcode.com/Yescafe) [![Codewars Badge](https://img.shields.io/badge/-Codewars-b1361e?style=flat-square&logo=codewars&logoColor=white&link=https://www.codewars.com/users/Yescafe)](https://www.codewars.com/users/Yescafe)
 
-Hi there, I am Ivan Chien. I like Rust and C++.
+Hi there, I am Ivan Chien. I like Rust and C++ and have used them to write some projects, you can find them below or on the repositories page.
 
-I use [Vim](https://github.com/Yestercafe/nvim)/[Emacs](https://github.com/Yestercafe/zero.emacs).
+I use NeoVim, VSCode, and Emacs. You can find out my configs:
+
+- [NeoVim](https://github.com/Yestercafe/nvim)
+- [Emacs](https://github.com/Yestercafe/zero.emacs)
+- [dotfiles](https://github.com/Yestercafe/dotfiles) in which you can find more about, such as zsh or bash
 
 I'd like to learn more about functional programming languages like Haskell and independent-type programming languages like Coq or Agda.
 
-### Goals
+### Recent Goals
 
-- [ ] porting some major C++ projects to Rust
 - [ ] to finish Coffee OJ
+- [ ] porting some major C++ projects to Rust
 
 <!-- <picture>
   <source
@@ -46,7 +50,7 @@ I'd like to learn more about functional programming languages like Haskell and i
 - programming languages
 - theorem proving
 
-### My Favorite Repos
+### My Handworks
 
 - [Yestercafe/CoffeeOJ-judge](https://github.com/Yestercafe/CoffeeOJ-judge)(WIP): An online judge backend service written in Rust
 - [Yestercafe/CoffeeOJ](https://github.com/Yestercafe/CoffeeOJ)(WIP): An online judge platform written in Golang
