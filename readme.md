@@ -31,6 +31,7 @@ I'd like to learn more about functional programming languages like Haskell and i
 - [ ] to finish Coffee OJ
 - [ ] porting some major C++ projects to Rust
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yestercafe&layout=compact&langs_count=6&range=last_7_days&is_including_today=true&custom_title=Wakatime&theme=apprentice"
@@ -42,6 +43,7 @@ I'd like to learn more about functional programming languages like Haskell and i
   />
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yestercafe&layout=compact&langs_count=6&range=last_7_days&is_including_today=true&custom_title=Languages%20I%20Used%20Recently" />
 </picture>
+-->
 
 ### Interested in
 
